@@ -1,7 +1,9 @@
 # **Asafov Pavel**
 
 *****
+
 ![myphoto](myphoto.jpg)
+
 *****
 
 ### Contacts
@@ -24,4 +26,4 @@ Having some skills in:
 
 ### My solved problems at [Codewars profile](https://www.codewars.com/users/Makrador)
 
-**English - **A2****
+**English - A2**
